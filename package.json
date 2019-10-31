@@ -1,0 +1,19 @@
+{
+  "name": "chat-bot-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TavernierAlicia/chat-bot-io.git"
+  },
+  "author": "Alicia Tavernier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TavernierAlicia/chat-bot-io/issues"
+  },
+  "homepage": "https://github.com/TavernierAlicia/chat-bot-io#readme"
+}
